@@ -1,17 +1,17 @@
 # External gems
 gems:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
+  #- jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Cole Hoffbauer
+subtitle: "A place for my random projects"
+email: colehoff7@gmail.com
+name: Cole Hoffbauer
 description: > 
-  A simple yet classy theme for your Jekyll website or blog.
+  Cole's Site
 baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.com" # the base hostname & protocol for your site
+url: "http://colehoff7.github.io/" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 
@@ -31,7 +31,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+#disqus_shortname: bencentra
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
